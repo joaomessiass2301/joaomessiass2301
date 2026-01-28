@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">👋 Olá! Sou aluno do **ENIAC**, atualmente cursando **Sistemas de Informação**.<br><br>🎓 Estou **no início da minha trajetória na área de tecnologia**, buscando desenvolver uma base sólida em programação e TI.<br><br>💻 Tenho interesse em áreas como **programação, desenvolvimento de software e tecnologia em geral**, e estou constantemente aprendendo e praticando.<br><br>🚀 Utilizo este perfil para **compartilhar meus primeiros projetos**, registrar minha evolução e aplicar a **melhoria contínua** ao longo da minha formação acadêmica e profissional.</p>
+<p align="left">👋 Olá! Sou aluno do ENIAC, atualmente cursando *Sistemas de Informação.<br><br>🎓 Esto no início da minha trajetória na área de tecnologia, buscando desenvolver uma base sólida em programação e TI.<br><br>💻 Tenho interesse em áreas como programação, desenvolvimento de software e tecnologia em geral, e estou constantemente aprendendo e praticando.<br><br>🚀 Utilizo este perfil para compartilhar meus primeiros projetos, registrar minha evolução e aplicar a melhoria contínua ao longo da minha formação acadêmica e profissional.</p>
 
 ###
 
